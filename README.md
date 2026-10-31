@@ -30,6 +30,8 @@ Don't just dive into Leetcode to practice as alone it wont help you much instead
 <p align="center">
 <img width="40%" alt="cold vs refered application" src="https://github.com/user-attachments/assets/eaab2c8d-9482-4b9d-8eb3-8c694edb7aba" />
 </p>
+<div align="center">Data Source: [1] F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates</div>
+
 ## Refrences
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
 [^2]: California State University Long Beach, “Understanding Applicant Tracking Systems (ATS) Software Before Submitting a Resume,” California State University Long Beach. Accessed: Oct. 30, 2026. [Online]. Available: https://www.csulb.edu/college-of-business/legal-resource-center/article/understanding-applicant-tracking-systems-ats
