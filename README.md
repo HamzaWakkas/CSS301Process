@@ -17,6 +17,7 @@ The contents of your resume will be the primary factor in determining if you wil
 
 The best way to optimize your resume is by adding keywords directly from job listings by scanning multiple listings and identifying reoccurring coding languages, frameworks, and tools being listed and if you have any experience with those adding them to your resume's sills section. If you don't have experience with a language, framework or tool you are seeing its a good sign you should learn the basics so you can include it as a skill. Use a single column format and don't use graphics as those will cause ATS to miss parts of your resume.   
 ## Searching for Positions
+To secure an internship you will need to cast a wide net as internships are highly competitive. Hiring  
 ## Preparing for Coding Interviews
 ## Refrences
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
