@@ -6,6 +6,7 @@
 - [Optimizing Your Resume](#optimizing-your-resume)
 - [Searching for Positions](#searching-for-positions)
 - [Preparing for Coding Interviews](#preparing-for-coding-interviews)
+- [Visual Element](#visual-element)
   
 A very common piece of advice you will hear is get an internship. Internships are how you will start to gain experience in the field so when you graduate you already have some work experience. However applying for your first internship can feel very overwhelming and confusing. This guide covers the best practices for hunting for referrals,optimizing your resume, searching for positions, and preparing for coding interviews.
 ## Hunting for Referals
@@ -24,6 +25,8 @@ You should be applying to as many internships as you can as early as you can but
 Coding interviews act as a way for a company to see how you tackle problems in real time and design and implement a solution. You should be explaining what you are planning to do as you write your answer. The 4 most important criteria the interviewer is looking for is communication, problem solving, technical competency, and testing.
 
 Don't just dive into Leetcode to practice as alone it wont help you much instead, "Pick a good programming language to use, plan your time and tackle topics and questions in order of importance, combine studying and practicing for a single topic, accompany practice with coding interview cheat sheets to internalize the must-dos and must-remembers, prepare a good self introduction and final questions, try out mock coding interviews (with Google and Facebook engineers)" [^3].
+## Visual Element
+
 ## Refrences
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
 [^2]: California State University Long Beach, “Understanding Applicant Tracking Systems (ATS) Software Before Submitting a Resume,” California State University Long Beach. Accessed: Oct. 30, 2026. [Online]. Available: https://www.csulb.edu/college-of-business/legal-resource-center/article/understanding-applicant-tracking-systems-ats
