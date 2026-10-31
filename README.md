@@ -26,7 +26,10 @@ Coding interviews act as a way for a company to see how you tackle problems in r
 
 Don't just dive into Leetcode to practice as alone it wont help you much instead, "Pick a good programming language to use, plan your time and tackle topics and questions in order of importance, combine studying and practicing for a single topic, accompany practice with coding interview cheat sheets to internalize the must-dos and must-remembers, prepare a good self introduction and final questions, try out mock coding interviews (with Google and Facebook engineers)" [^3].
 ## Visual Element
-
+<div align="center">Status of cold applications vs referred applications</div>
+<p align="center">
+<img width="40%" alt="cold vs refered application" src="https://github.com/user-attachments/assets/eaab2c8d-9482-4b9d-8eb3-8c694edb7aba" />
+</p>
 ## Refrences
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
 [^2]: California State University Long Beach, “Understanding Applicant Tracking Systems (ATS) Software Before Submitting a Resume,” California State University Long Beach. Accessed: Oct. 30, 2026. [Online]. Available: https://www.csulb.edu/college-of-business/legal-resource-center/article/understanding-applicant-tracking-systems-ats
