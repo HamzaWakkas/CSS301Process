@@ -21,6 +21,10 @@ To secure an internship you will need to cast a wide net as internships are high
 
 You should be applying to as many internships as you can as early as you can but if you miss the peak window don't give up your search. Be sure to look at multiple job posting websited and not just one.
 ## Preparing for Coding Interviews
+Coding interviews act as a way for a company to see how you tackle problems in real time and design and implement a solution. You should be explaining what you are planning to do as you write your answer. The 4 most important criteria the interviewer is looking for is communication, problem solving, technical competency, and testing.
+
+Don't just dive into Leetcode to practice as alone it wont help you much instead, "Pick a good programming language to use, plan your time and tackle topics and questions in order of importance, combine studying and practicing for a single topic, accompany practice with coding interview cheat sheets to internalize the must-dos and must-remembers, prepare a good self introduction and final questions, try out mock coding interviews (with Google and Facebook engineers)" [^3].
 ## Refrences
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
 [^2]: California State University Long Beach, “Understanding Applicant Tracking Systems (ATS) Software Before Submitting a Resume,” California State University Long Beach. Accessed: Oct. 30, 2026. [Online]. Available: https://www.csulb.edu/college-of-business/legal-resource-center/article/understanding-applicant-tracking-systems-ats
+[^3]: Y. Tay, “Software Engineer Interviews: Everything You Need to Prepare | Tech Interview Handbook,” www.techinterviewhandbook.org. Accessed: Oct. 30, 2026. [Online]. Available: https://www.techinterviewhandbook.org/software-engineering-interview-guide/
