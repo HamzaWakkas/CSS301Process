@@ -1,4 +1,4 @@
-# Software Development Internship Hunting 
+# Software Development From Graduation to Industry
 <sub>By Hamza Wakkas</sub>
 
 ## Table of Contents
@@ -8,11 +8,11 @@
 - [Preparing for Coding Interviews](#preparing-for-coding-interviews)
 - [Refrences](#Refrences)
   
-A very common piece of advice you will hear is get an internship. Internships are how you will start to gain experience in the field so when you graduate you already have some work experience. However applying for your first internship can feel very overwhelming and confusing. This guide covers the best practices for hunting for referrals,optimizing your resume, searching for positions, and preparing for coding interviews.
+A very common piece of advice you will hear is get an internship but few people will actually tell you what you need to do to stand out. Internships are how you will start to gain experience in the field so when you graduate you already have some work experience. However applying for your first internship can feel very overwhelming and confusing. This guide covers the best practices for hunting for referrals,optimizing your resume, searching for positions, and preparing for coding interviews.
 ## Hunting for Referals
 Referrals are extremely useful to set you apart from other candidates and in some cases skipping ATS.Research shows referred candidates get interviews at 40-65% rates versus 2-8% for cold applications [^1].  
 
-The best way to start off your hunt is by reaching out to any connections you have that are currently working in Software Development if you don't have any connections look for huski alumni you can connect with. Inquire about their company's internship program and request a referral if their company allows its employees to refer internship candidates. 
+The best way to start off your hunt is by reaching out to any connections you have that are currently working in Software Development. If you don't have any connections look for huski alumni you can connect with using LinkedIn's alumni search tool. Inquire about their company's internship program and request a referral if their company allows its employees to refer internship candidates. If you manage to secure a referral it makes the chances of you interviewing with an actual human much higher.
 <div align="center">Referrals Hunt Cycle</div>
 <p align="center">
 <img width="50%" height="%0%" alt="Referral Hunt Cycle" src="https://github.com/user-attachments/assets/8eb5ec67-6189-4f36-b9ba-8e714811457e" />
@@ -33,3 +33,4 @@ Don't just dive into Leetcode to practice as alone it wont help you much instead
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
 [^2]: California State University Long Beach, “Understanding Applicant Tracking Systems (ATS) Software Before Submitting a Resume,” California State University Long Beach. Accessed: Oct. 30, 2026. [Online]. Available: https://www.csulb.edu/college-of-business/legal-resource-center/article/understanding-applicant-tracking-systems-ats
 [^3]: Y. Tay, “Software Engineer Interviews: Everything You Need to Prepare | Tech Interview Handbook,” www.techinterviewhandbook.org. Accessed: Oct. 30, 2026. [Online]. Available: https://www.techinterviewhandbook.org/software-engineering-interview-guide/
+[word count 616]
