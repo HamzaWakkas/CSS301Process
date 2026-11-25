@@ -6,7 +6,7 @@
 - [Optimizing Your Resume](#optimizing-your-resume)
 - [Searching for Positions](#searching-for-positions)
 - [Preparing for Coding Interviews](#preparing-for-coding-interviews)
-- -[Refrences](#Refrences)
+- [Refrences](#Refrences)
 A very common piece of advice you will hear is get an internship. Internships are how you will start to gain experience in the field so when you graduate you already have some work experience. However applying for your first internship can feel very overwhelming and confusing. This guide covers the best practices for hunting for referrals,optimizing your resume, searching for positions, and preparing for coding interviews.
 ## Hunting for Referals
 Referrals are extremely useful to set you apart from other candidates and in some cases skipping ATS.Research shows referred candidates get interviews at 40-65% rates versus 2-8% for cold applications [^1].  
