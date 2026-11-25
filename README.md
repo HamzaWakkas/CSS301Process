@@ -1,5 +1,5 @@
 # Software Development Internship Hunting 
-###### By Hamza Wakkas
+<sub>By Hamza Wakkas</sub>
 
 ## Table of Contents
 - [Hunting for Referals](#hunting-for-referals)
