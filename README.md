@@ -1,4 +1,8 @@
 # Software Development From Graduation to Industry
+<p align="center">
+  <img width="50%" height="50%" alt="a27d24_6e1a4f7a2ed04b04963c016c0f6c86eb~mv2" src="https://github.com/user-attachments/assets/0e38a909-6ba3-456f-bbb0-af76c0abcd78" />
+  <sub>Image: "Internship Concept" &copy; 2016 / iStock</sub>
+</p>
 <sub>By Hamza Wakkas</sub>
 
 ## Table of Contents
