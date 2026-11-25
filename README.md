@@ -37,4 +37,5 @@ Don't just dive into Leetcode to practice as alone it wont help you much instead
 [^1]: F. Johnson, “Do Job Referrals Actually Work? Data Behind Response Rates,” Refer Me. Accessed: Oct. 30, 2026. [Online]. Available: https://refer.me/blog/do-job-referrals-actually-work-data-behind-response-rates
 [^2]: California State University Long Beach, “Understanding Applicant Tracking Systems (ATS) Software Before Submitting a Resume,” California State University Long Beach. Accessed: Oct. 30, 2026. [Online]. Available: https://www.csulb.edu/college-of-business/legal-resource-center/article/understanding-applicant-tracking-systems-ats
 [^3]: Y. Tay, “Software Engineer Interviews: Everything You Need to Prepare | Tech Interview Handbook,” www.techinterviewhandbook.org. Accessed: Oct. 30, 2026. [Online]. Available: https://www.techinterviewhandbook.org/software-engineering-interview-guide/
+
 [word count 616]
